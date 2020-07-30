@@ -7,3 +7,5 @@
 
 #### 2. 基于IMDB的二分类问题
 
+> dataset[存放位置](https://www.cnblogs.com/liuys635/p/11187631.html)；
+
